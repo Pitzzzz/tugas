@@ -1,0 +1,14 @@
+C:\Avid\Segitiga\Segitiga\bin\Debug\net9.0\Segitiga.exe
+C:\Avid\Segitiga\Segitiga\bin\Debug\net9.0\Segitiga.deps.json
+C:\Avid\Segitiga\Segitiga\bin\Debug\net9.0\Segitiga.runtimeconfig.json
+C:\Avid\Segitiga\Segitiga\bin\Debug\net9.0\Segitiga.dll
+C:\Avid\Segitiga\Segitiga\bin\Debug\net9.0\Segitiga.pdb
+C:\Avid\Segitiga\Segitiga\obj\Debug\net9.0\Segitiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avid\Segitiga\Segitiga\obj\Debug\net9.0\Segitiga.AssemblyInfoInputs.cache
+C:\Avid\Segitiga\Segitiga\obj\Debug\net9.0\Segitiga.AssemblyInfo.cs
+C:\Avid\Segitiga\Segitiga\obj\Debug\net9.0\Segitiga.csproj.CoreCompileInputs.cache
+C:\Avid\Segitiga\Segitiga\obj\Debug\net9.0\Segitiga.dll
+C:\Avid\Segitiga\Segitiga\obj\Debug\net9.0\refint\Segitiga.dll
+C:\Avid\Segitiga\Segitiga\obj\Debug\net9.0\Segitiga.pdb
+C:\Avid\Segitiga\Segitiga\obj\Debug\net9.0\Segitiga.genruntimeconfig.cache
+C:\Avid\Segitiga\Segitiga\obj\Debug\net9.0\ref\Segitiga.dll

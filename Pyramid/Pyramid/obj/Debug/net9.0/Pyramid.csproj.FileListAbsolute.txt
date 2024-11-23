@@ -1,0 +1,14 @@
+C:\Avid\Pyramid\Pyramid\bin\Debug\net9.0\Pyramid.exe
+C:\Avid\Pyramid\Pyramid\bin\Debug\net9.0\Pyramid.deps.json
+C:\Avid\Pyramid\Pyramid\bin\Debug\net9.0\Pyramid.runtimeconfig.json
+C:\Avid\Pyramid\Pyramid\bin\Debug\net9.0\Pyramid.dll
+C:\Avid\Pyramid\Pyramid\bin\Debug\net9.0\Pyramid.pdb
+C:\Avid\Pyramid\Pyramid\obj\Debug\net9.0\Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avid\Pyramid\Pyramid\obj\Debug\net9.0\Pyramid.AssemblyInfoInputs.cache
+C:\Avid\Pyramid\Pyramid\obj\Debug\net9.0\Pyramid.AssemblyInfo.cs
+C:\Avid\Pyramid\Pyramid\obj\Debug\net9.0\Pyramid.csproj.CoreCompileInputs.cache
+C:\Avid\Pyramid\Pyramid\obj\Debug\net9.0\Pyramid.dll
+C:\Avid\Pyramid\Pyramid\obj\Debug\net9.0\refint\Pyramid.dll
+C:\Avid\Pyramid\Pyramid\obj\Debug\net9.0\Pyramid.pdb
+C:\Avid\Pyramid\Pyramid\obj\Debug\net9.0\Pyramid.genruntimeconfig.cache
+C:\Avid\Pyramid\Pyramid\obj\Debug\net9.0\ref\Pyramid.dll
